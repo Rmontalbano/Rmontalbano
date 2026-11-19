@@ -1,6 +1,6 @@
 ### Remo Montalbano
 
-Solutions Engineer at Cisco and CCIE Wireless (#66202), based in Arizona. I came from wireless engineering and now design and build agentic systems, both by hand and through directed AI-assisted development, and check them with evals and traces. The systems are simple so far.
+Solutions Engineer at Cisco and CCIE Wireless (#66202), based in Arizona. I came from wireless engineering and now design and build agentic systems and apps through AI-assisted development, and check them with evals and traces.
 
 **Work**
 - [defenseclaw_win](https://github.com/Rmontalbano/defenseclaw_win): a Windows desktop companion app for Cisco DefenseClaw (community project)
